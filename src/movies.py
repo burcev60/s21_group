@@ -11,6 +11,14 @@ class Movies:
         Put here any fields that you think you will need.
         """
         self.path = path_to_the_file
+        self.data = self._get_data()
+
+    def _get_data(self):
+        data = []
+        with open(self.path, "r") as file:
+            for line in file:
+                data.append(line.strip())
+        return data
 
     def dist_by_release(self):
         """
@@ -18,12 +26,11 @@ class Movies:
         Вам нужно извлечь годы из названий. Отсортируйте их по количеству в порядке убывания.
         """
         release_years = {}
-        with open(self.path, "r") as file:
-            for line in file:
-                match = re.search(r"\((\d{4})\)", line)
-                if match:
-                    year = match.group(1)
-                    release_years[year] = release_years.get(year, 0) + 1
+        for line in self.data:
+            match = re.search(r"\((\d{4})\)", line)
+            if match:
+                year = match.group(1)
+                release_years[year] = release_years.get(year, 0) + 1
 
         release_years = dict(
             sorted(release_years.items(), key=lambda item: item[1], reverse=True)
@@ -38,15 +45,14 @@ class Movies:
         """
         genres = {}
         if_first_line = True
-        with open(self.path, "r") as file:
-            for line in file:
-                if if_first_line:
-                    if_first_line = False
-                else:
-                    raw_genres = line[line.rfind(",") + 1 :].strip().split("|")
+        for line in self.data:
+            if if_first_line:
+                if_first_line = False
+            else:
+                raw_genres = line[line.rfind(",") + 1 :].strip().split("|")
 
-                    for gen in raw_genres:
-                        genres[gen] = genres.get(gen, 0) + 1
+                for gen in raw_genres:
+                    genres[gen] = genres.get(gen, 0) + 1
 
         genres = dict(sorted(genres.items(), key=lambda item: item[1], reverse=True))
         return genres
@@ -58,11 +64,10 @@ class Movies:
         """
         untop_movies = {}
 
-        with open(self.path, "r") as file:
-            for line in file:
-                mov = line[line.find(",") + 1 : line.rfind(",")]
-                gen = line[line.rfind(",") + 1 :].strip().split("|")
-                untop_movies[mov] = len(gen)
+        for line in self.data:
+            mov = line[line.find(",") + 1 : line.rfind(",")]
+            gen = line[line.rfind(",") + 1 :].strip().split("|")
+            untop_movies[mov] = len(gen)
 
         movies = dict(
             sorted(untop_movies.items(), key=lambda item: item[1], reverse=True)[:n]

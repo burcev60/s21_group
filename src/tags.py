@@ -6,9 +6,20 @@ class Tags:
         """
         Put here any fields that you think you will need.
         """
-
         self.path = path_to_the_file
+        self.data = self._get_data()
 
+    def _get_data(self):
+        data = []
+        is_first_line = True
+        with open(self.path, "r") as file:
+            for line in file:
+                if is_first_line:
+                    is_first_line = False
+                else:
+                    data.append(line.strip())
+        return data
+    
     def most_words(self, n):
         """
         Метод возвращает top-n тегов с наибольшим количеством слов внутри. 
@@ -18,13 +29,8 @@ class Tags:
 
         big_tags = {}
         tags = []
-        is_first_line = True
-        with open(self.path, "r") as file:
-            for line in file:
-                if is_first_line:
-                    is_first_line = False
-                else:
-                    tags.append(line.split(',')[2])
+        for line in self.data:
+            tags.append(line.split(',')[2])
 
         uniq_tags = list(set(tags))
         for tag in uniq_tags:
@@ -39,13 +45,8 @@ class Tags:
         """
         big_tags = {}
         tags = []
-        is_first_line = True
-        with open(self.path, "r") as file:
-            for line in file:
-                if is_first_line:
-                    is_first_line = False
-                else:
-                    tags.append(line.split(',')[2])
+        for line in self.data:
+            tags.append(line.split(',')[2])
 
         uniq_tags = list(set(tags))
         for tag in uniq_tags:
@@ -70,15 +71,11 @@ class Tags:
         Это словарь, где ключи — теги, а значения — счетчики.
         Удалите дубликаты. Отсортируйте его по счетчикам по убыванию.
         """
-        is_first_line = True
         popular_tags = {}
-        with open(self.path, "r") as file:
-            for line in file:
-                if is_first_line:
-                    is_first_line = False
-                else:
-                    tag = line.split(',')[2] # нужен ли lower() ??? есть теги с разным регистром
-                    popular_tags[tag] = popular_tags.get(tag, 0) + 1
+        for line in self.data:
+            tag = line.split(',')[2] # нужен ли lower() ??? есть теги с разным регистром
+            popular_tags[tag] = popular_tags.get(tag, 0) + 1
+
         popular_tags = dict(sorted(popular_tags.items(), key = lambda item: item[1], reverse=True)[:n])
 
         return popular_tags
@@ -88,16 +85,11 @@ class Tags:
         Метод возвращает все уникальные теги, которые включают слово, указанное в качестве аргумента.
         Удалить дубликаты. Это список тегов. Отсортировать его по именам тегов в алфавитном порядке.
         """
-        is_first_line = True
         tags = []
-        with open(self.path, "r") as file:
-            for line in file:
-                if is_first_line:
-                    is_first_line = False
-                else:
-                    tag = line.split(',')[2] 
-                    if word in tag:             # lower??
-                        tags.append(tag)
+        for line in self.data:
+            tag = line.split(',')[2] 
+            if word in tag:             # lower??
+                tags.append(tag)
 
         tags_with_word = sorted(list(set(tags)))
 

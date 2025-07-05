@@ -35,7 +35,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 34,0112818,Dead Man Walking,Tim Robbins,11000000,39363635,122
 35,0113442,It Takes Two,Andy Tennant,0,19474589,101
 36,0112697,Clueless,Amy Heckerling,12000000,56753362,97
-37,0112749,Cry, the Beloved Country,Darrell Roodt,0,670727,106
+37,0112749,"Cry, the Beloved Country",Darrell Roodt,0,670727,106
 38,0114279,Richard III,Richard Loncraine,6000000,2748518,104
 39,0112819,Dead Presidents,Albert Hughes,10000000,24147179,119
 40,0114272,Restoration,Michael Hoffman,19000000,4005941,117
@@ -170,7 +170,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 169,0058450,The Umbrellas of Cherbourg,Jacques Demy,0,206931,91
 170,0114663,Three Wishes,Martha Coolidge,10000000,7027517,115
 171,0114702,Total Eclipse,Agnieszka Holland,8000000,340139,111
-172,0114682,To Wong Foo, Thanks for Everything! Julie Newmar,Beeban Kidron,30000000,47774193,109
+172,0114682,"To Wong Foo, Thanks for Everything! Julie Newmar",Beeban Kidron,30000000,47774193,109
 173,0114781,Under Siege 2: Dark Territory,Geoff Murphy,60000000,104324083,100
 174,0114798,Unstrung Heroes,Diane Keaton,0,7929434,93
 175,0114805,Unzipped,Douglas Keeve,0,2875086,73
@@ -302,13 +302,13 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 301,0110598,Muriel's Wedding,P.J. Hogan,9000000,15510889,106
 302,0112435,The Baby-Sitters Club,Melanie Mayron,6500000,9685976,94
 303,0109040,Ace Ventura: Pet Detective,Tom Shadyac,15000000,107217396,86
-304,0109045,The Adventures of Priscilla, Queen of the Desert,Stephan Elliott,0,11302168,104
+304,0109045,"The Adventures of Priscilla, Queen of the Desert",Stephan Elliott,0,11302168,104
 305,0106339,Backbeat,Iain Softley,0,4708451,100
 306,0104779,Bitter Moon,Roman Polanski,5000000,1862805,139
 307,0109348,Bullets Over Broadway,Woody Allen,20000000,13383747,98
 308,0109444,Clear and Present Danger,Phillip Noyce,62000000,215887717,141
 309,0109446,The Client,Joel Schumacher,45000000,117615211,119
-310,0109484,Corrina, Corrina,Jessie Nelson,15000000,20164171,115
+310,0109484,"Corrina, Corrina",Jessie Nelson,15000000,20164171,115
 311,0109504,Crooklyn,Spike Lee,14000000,13642925,115
 312,0109506,The Crow,Alex Proyas,23000000,50844565,102
 313,0109450,Cobb,Ron Shelton,0,1007583,128
@@ -320,7 +320,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 319,0110093,I Love Trouble,Charles Shyer,45000000,30806194,123
 320,0110167,It Could Happen to You,Andrew Bergman,20000000,37939757,101
 321,0110213,The Jungle Book,Stephen Sommers,27000000,52389402,111
-322,0107472,The Wonderful, Horrible Life of Leni Riefenstahl,Director,0,449707,183
+322,0107472,"The Wonderful, Horrible Life of Leni Riefenstahl",Director,0,449707,183
 323,0110357,The Lion King,Roger Allers,45000000,979161373,88
 324,0107426,Little Buddha,Bernardo Bertolucci,35000000,4885392,123
 325,0111686,New Nightmare,Wes Craven,8000000,19721741,112
@@ -344,9 +344,9 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 343,0110455,A Man of No Importance,Suri Krishnamma,0,920916,99
 344,0111048,S.F.W.,Jefery Levy,0,63513,96
 345,0110399,A Low Down Dirty Shame,Keenen Ivory Wayans,10000000,29392418,100
-346,0112570,Boys Life: Three Stories of Love, Lust, and Liberation,Robert Lee King,0,0,91
+346,0112570,"Boys Life: Three Stories of Love, Lust, and Liberation",Robert Lee King,0,0,91
 347,0109454,Colonel Chabert,Yves Angelo,0,464284,110
-348,0059170,Faster, Pussycat! Kill! Kill!,Russ Meyer,45000,0,83
+348,0059170,"Faster, Pussycat! Kill! Kill!",Russ Meyer,45000,0,83
 349,0110186,Jason's Lyric,Doug McHenry,7000000,20851521,119
 350,0111301,Street Fighter,Steven E. de Souza,35000000,99433436,102
 351,0110027,Highlander: The Final Dimension,Andrew Morahan,26000000,12303080,99
@@ -494,7 +494,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 493,0107315,Kika,Pedro Almodóvar,0,2020357,114
 494,0106408,Bhaji on the Beach,Gurinder Chadha,0,740827,101
 495,0110363,Little Big League,Andrew Scheinman,0,12267790,119
-496,0107225,Ciao, Professore!,Lina Wertmüller,0,1113435,100
+496,0107225,"Ciao, Professore!",Lina Wertmüller,0,1113435,100
 497,0111252,Spanking the Monkey,David O. Russell,200000,1359736,100
 498,0110366,The Little Rascals,Penelope Spheeris,23000000,67308282,82
 499,0109120,Andre,George Miller,0,16820893,94
@@ -622,7 +622,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 621,0116213,Eraser,Chuck Russell,100000000,242295562,115
 622,0117218,The Nutty Professor,Tom Shadyac,54000000,273961019,95
 623,0111546,Un été inoubliable,Lucian Pintilie,0,0,82
-624,0113610,The Last Klezmer: Leopold Kozlowski, His Life and Music,Yale Strom,0,0,85
+624,0113610,"The Last Klezmer: Leopold Kozlowski, His Life and Music",Yale Strom,0,0,85
 625,0111237,Somebody to Love,Alexandre Rockwell,0,18112,102
 626,0116040,Daylight,Rob Cohen,80000000,159212469,114
 627,0116365,The Frighteners,Peter Jackson,30000000,29359216,110
@@ -775,7 +775,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 774,0053271,The Shaggy Dog,Charles Barton,0,0,104
 775,0054357,Swiss Family Robinson,Ken Annakin,5000000,40359745,126
 776,0059793,That Darn Cat!,Robert Stevenson,0,0,116
-777,0046672,20,000 Leagues Under the Sea,Richard Fleischer,9000000,746,127
+777,0046672,"20,000 Leagues Under the Sea",Richard Fleischer,9000000,746,127
 778,0106611,Cool Runnings,Jon Turteltaub,14000000,154856263,98
 779,0109127,Angels in the Outfield,William Dear,24000000,50236831,102
 780,0042332,Cinderella,Clyde Geronimi,2900000,96383387,74
@@ -877,7 +877,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 876,0112483,Best of the Best 3: No Turning Back,Phillip Rhee,0,0,90
 877,0103850,Bob Roberts,Tim Robbins,3900000,4479470,102
 878,0095765,Cinema Paradiso,Giuseppe Tornatore,5000000,13030027,174
-879,0097108,The Cook, the Thief, His Wife & Her Lover,Peter Greenaway,0,8527316,124
+879,0097108,"The Cook, the Thief, His Wife & Her Lover",Peter Greenaway,0,8527316,124
 880,0101700,Delicatessen,Marc Caro,24000000,1804142,99
 881,0101765,The Double Life of Véronique,Krzysztof Kieslowski,0,2175939,98
 882,0101811,Enchanted April,Mike Newell,0,13200170,95
@@ -887,7 +887,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 886,0116209,The English Patient,Anthony Minghella,27000000,231976425,162
 887,0102426,Mediterraneo,Gabriele Salvatores,0,4532791,96
 888,0097937,My Left Foot,Jim Sheridan,600000,14743391,103
-889,0098724,Sex, Lies, and Videotape,Steven Soderbergh,1200000,24742453,100
+889,0098724,"Sex, Lies, and Videotape",Steven Soderbergh,1200000,24742453,100
 890,0105107,Passion Fish,John Sayles,3330000,4814619,135
 891,0105488,Strictly Ballroom,Baz Luhrmann,3000000,11761116,94
 892,0096257,The Thin Blue Line,Errol Morris,0,1209846,101
@@ -901,7 +901,7 @@ movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
 900,0082971,Raiders of the Lost Ark,Steven Spielberg,18000000,389925971,115
 901,0088846,Brazil,Terry Gilliam,15000000,9952602,132
 902,0090605,Aliens,James Cameron,18500000,131060248,137
-903,0060196,The Good, the Bad and the Ugly,Sergio Leone,1200000,25266106,178
+903,0060196,"The Good, the Bad and the Ugly",Sergio Leone,1200000,25266106,178
 904,0094336,Withnail and I,Bruce Robinson,1100000,1970880,107
 905,0050083,12 Angry Men,Sidney Lumet,350000,2945,96
 906,0056172,Lawrence of Arabia,David Lean,15000000,45870825,227
