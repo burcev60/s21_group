@@ -1,0 +1,1000 @@
+movieId,ImdbId,Title,Director,Budget,Cumulative Worldwide Gross,runtime
+1,0114709,Toy Story,John Lasseter,30000000,394436586,81
+2,0113497,Jumanji,Joe Johnston,65000000,262821940,104
+3,0113228,Grumpier Old Men,Howard Deutch,25000000,71518503,101
+4,0114885,Waiting to Exhale,Forest Whitaker,16000000,81452156,124
+5,0113041,Father of the Bride Part II,Charles Shyer,30000000,76594107,106
+6,0113277,Heat,Michael Mann,60000000,187436818,170
+7,0114319,Sabrina,Sydney Pollack,58000000,53696959,127
+8,0112302,Tom and Huck,Peter Hewitt,0,23920048,97
+9,0114576,Sudden Death,Peter Hyams,35000000,64350171,111
+10,0113189,GoldenEye,Martin Campbell,60000000,352194034,130
+11,0112346,The American President,Rob Reiner,62000000,107879496,114
+12,0112896,Dracula: Dead and Loving It,Mel Brooks,30000000,10772144,88
+13,0112453,Balto,Simon Wells,0,11349090,78
+14,0113987,Nixon,Oliver Stone,44000000,13681765,192
+15,0112760,Cutthroat Island,Renny Harlin,98000000,10017322,124
+16,0112641,Casino,Martin Scorsese,52000000,116112375,178
+17,0114388,Sense and Sensibility,Ang Lee,16000000,134582776,136
+18,0113101,Four Rooms,Directors,4000000,4257354,98
+19,0112281,Ace Ventura: When Nature Calls,Steve Oedekerk,30000000,212385533,90
+20,0113845,Money Train,Joseph Ruben,68000000,35431113,110
+21,0113161,Get Shorty,Barry Sonnenfeld,30250000,115101622,105
+22,0112722,Copycat,Jon Amiel,20000000,32051917,123
+23,0112401,Assassins,Richard Donner,50000000,30303072,133
+24,0114168,Powder,Victor Salva,9500000,30862156,111
+25,0113627,Leaving Las Vegas,Mike Figgis,3600000,32029928,111
+26,0114057,Othello,Oliver Parker,11000000,2844379,123
+27,0114011,Now and Then,Lesli Linka Glatter,0,37591674,102
+28,0114117,Persuasion,Roger Michell,1000000,5269757,103
+29,0112682,The City of Lost Children,Marc Caro,18000000,1784338,112
+30,0115012,Shanghai Triad,Yimou Zhang,0,2086101,108
+31,0112792,Dangerous Minds,John N. Smith,23000000,179519401,99
+32,0114746,12 Monkeys,Terry Gilliam,29000000,168839459,129
+33,0112431,Babe,Chris Noonan,30000000,254134910,91
+34,0112818,Dead Man Walking,Tim Robbins,11000000,39363635,122
+35,0113442,It Takes Two,Andy Tennant,0,19474589,101
+36,0112697,Clueless,Amy Heckerling,12000000,56753362,97
+37,0112749,Cry, the Beloved Country,Darrell Roodt,0,670727,106
+38,0114279,Richard III,Richard Loncraine,6000000,2748518,104
+39,0112819,Dead Presidents,Albert Hughes,10000000,24147179,119
+40,0114272,Restoration,Michael Hoffman,19000000,4005941,117
+41,0113855,Mortal Kombat,Paul W.S. Anderson,18000000,122195920,101
+42,0114681,To Die For,Gus Van Sant,20000000,21287694,106
+43,0113347,How to Make an American Quilt,Jocelyn Moorhouse,10000000,41200020,117
+44,0114369,Se7en,David Fincher,33000000,328983304,127
+45,0114148,Pocahontas,Mike Gabriel,55000000,346079773,81
+46,0114916,When Night Is Falling,Patricia Rozema,0,919671,94
+47,0114814,The Usual Suspects,Bryan Singer,6000000,23341568,106
+48,0113819,Mighty Aphrodite,Woody Allen,15000000,6468498,95
+49,0110299,Lamerica,Gianni Amelio,0,4788331,116
+50,0112499,The Big Green,Holly Goldberg Sloan,12000000,17736619,100
+51,0113158,Georgia,Ulu Grosbard,0,1110104,115
+52,0113321,Home for the Holidays,Jodie Foster,20000000,17519169,103
+53,0110877,The Postman,Michael Radford,3000000,21901256,108
+54,0113419,The Indian in the Cupboard,Frank Oz,45000000,35656131,96
+55,0116260,Eye for an Eye,John Schlesinger,20000000,26877589,101
+56,0113862,Mr. Holland's Opus,Stephen Herek,23000000,106269971,144
+57,0116126,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Paris Barclay,3800000,20949601,89
+58,0118002,Two If by Sea,Bill Bennett,0,10658278,96
+59,0115683,Bio-Dome,Jason Bloom,15000000,13427615,88
+60,0116839,Lawnmower Man 2: Beyond Cyberspace,Farhad Mann,15000000,2409225,93
+61,0113149,French Twist,Josiane Balasko,0,1026646,104
+62,0113118,Friday,F. Gary Gray,3500000,28215918,91
+63,0116367,From Dusk Till Dawn,Robert Rodriguez,19000000,25839496,108
+64,0113010,Fair Game,Andrew Sipes,50000000,11534477,91
+65,0113537,Kicking and Screaming,Noah Baumbach,0,718490,96
+66,0113828,Les Misérables,Claude Lelouch,0,740048,175
+67,0115644,Bed of Roses,Michael Goldenberg,0,27315527,87
+68,0115676,Big Bully,Steve Miner,15000000,2042530,90
+69,0114367,Screamers,Christian Duguay,20000000,5711695,108
+70,0113973,Nico Icon,Susanne Ofteringer,0,306691,67
+71,0112744,The Crossing Guard,Sean Penn,9000000,868979,111
+72,0116731,The Juror,Brian Gibson,44000000,22754725,118
+73,0112445,The White Balloon,Jafar Panahi,150000,924940,85
+74,0114660,Things to Do in Denver When You're Dead,Gary Fleder,7000000,529766,115
+75,0112379,Antonia's Line,Marleen Gorris,1500000,4249321,102
+76,0114039,Once Upon a Time... When We Were Colored,Tim Reid,0,2291255,115
+77,0112365,Angels and Insects,Philip Haas,4997987,3414301,116
+78,0118158,White Squall,Ridley Scott,38000000,10292300,129
+79,0116151,Dunston Checks In,Ken Kwapis,0,9871065,88
+80,0115697,Black Sheep,Penelope Spheeris,0,32417995,87
+81,0113972,Nick of Time,John Badham,33000000,8175346,89
+82,0117002,Mary Reilly,Stephen Frears,47000000,12379402,108
+83,0114825,Vampire in Brooklyn,Wes Craven,20000000,19751736,100
+84,0115639,Beautiful Girls,Ted Demme,0,10597759,112
+85,0115759,Broken Arrow,John Woo,50000000,150270147,108
+86,0113403,A Midwinter's Tale,Kenneth Branagh,0,469571,99
+87,0113247,La haine,Mathieu Kassovitz,2590000,760851,98
+88,0113283,Heidi Fleiss: Hollywood Madam,Nick Broomfield,0,34402,106
+89,0115907,City Hall,Harold Becker,40000000,20340204,111
+90,0115734,Bottle Rocket,Wes Anderson,7000000,560069,91
+91,0117102,Mr. Wrong,Nick Castle,0,12825141,96
+92,0118040,Unforgettable,John Dahl,18000000,2821671,117
+93,0116483,Happy Gilmore,Dennis Dugan,12000000,41422354,92
+94,0112579,The Bridges of Madison County,Clint Eastwood,24000000,182016617,135
+95,0110251,Nobody Loves Me,Doris Dörrie,0,0,104
+96,0117110,Muppet Treasure Island,Brian Henson,0,34327766,99
+97,0112646,Catwalk,Robert Leacock,0,28672,95
+98,0112573,Braveheart,Mel Gibson,72000000,213216216,178
+99,0075314,Taxi Driver,Martin Scorsese,1300000,28737520,114
+100,0113326,Rumble in the Bronx,Stanley Tong,7500000,32392047,87
+101,0115645,Before and After,Barbet Schroeder,35000000,8797839,108
+102,0112373,Anne Frank Remembered,Jon Blair,0,1310200,117
+103,0115033,The Young Poisoner's Handbook,Benjamin Ross,0,536825,99
+104,0116606,If Lucy Fell,Eric Schaeffer,5000000,2420162,92
+105,0114536,Steal Big Steal Little,Andrew Davis,35000000,3150170,135
+106,0106473,The Boys of St. Vincent,John N. Smith,0,0,93
+107,0103859,Boomerang,Reginald Hudlin,42000000,131052444,117
+108,0109424,Chungking Express,Wong Kar-Wai,0,3275063,102
+109,0116324,Flirting with Disaster,David O. Russell,7000000,14702438,92
+110,0110647,The NeverEnding Story III,Peter MacDonald,17000000,0,95
+111,0110217,Jupiter's Wife,Michel Negroponte,0,10622,87
+112,0114131,Pie in the Sky,Bryan Gordon,0,0,95
+113,0113451,Jade,William Friedkin,50000000,9851610,95
+114,0116130,Down Periscope,David S. Ward,31000000,37553752,92
+115,0113756,Man of the Year,Dirk Shafer,0,209935,86
+116,0118055,Up Close & Personal,Jon Avnet,60000000,100688705,124
+117,0115685,The Birdcage,Mike Nichols,31000000,185260553,117
+118,0112585,The Brothers McMullen,Edward Burns,238000,10426506,98
+119,0112442,Bad Boys,Michael Bay,19000000,141407024,119
+120,0112342,The Amazing Panda Adventure,Christopher Cain,0,7506759,84
+121,0112461,The Basketball Diaries,Scott Kalvert,2000000,2402438,102
+122,0112427,An Awfully Big Adventure,Mike Newell,4000000,259724,112
+123,0109093,Amateur,Hal Hartley,2300000,757088,105
+124,0112384,Apollo 13,Ron Howard,52000000,355237933,140
+125,0114287,Rob Roy,Michael Caton-Jones,28000000,31596911,139
+126,0112288,The Addiction,Abel Ferrara,0,307308,82
+127,0112462,Batman Forever,Joel Schumacher,100000000,336567158,121
+128,0061395,Belle de Jour,Luis Buñuel,0,4162697,100
+129,0112495,Beyond Rangoon,John Boorman,23000000,5750110,100
+130,0112541,Blue in the Face,Paul Auster,2000000,1268636,83
+131,0109370,Canadian Bacon,Michael Moore,11000000,163971,91
+132,0112642,Casper,Brad Silberling,55000000,288144179,100
+133,0112688,Clockers,Spike Lee,25000000,13071518,128
+134,0112715,Congo,Frank Marshall,50000000,152022101,109
+135,0112740,Crimson Tide,Tony Scott,53000000,157387195,116
+136,0109508,Crumb,Terry Zwigoff,0,3041083,119
+137,0112851,Desperado,Robert Rodriguez,7000000,25406131,104
+138,0112857,Devil in a Blue Dress,Carl Franklin,27000000,16141551,102
+139,0112864,Die Hard with a Vengeance,John McTiernan,90000000,366101666,128
+140,0112887,The Doom Generation,Gregg Araki,0,287392,83
+141,0113071,First Knight,Jerry Zucker,55000000,127600435,134
+142,0113114,Free Willy 2: The Adventure Home,Dwight H. Little,0,30077111,95
+143,0113243,Hackers,Iain Softley,20000000,7564448,105
+144,0113464,Jeffrey,Christopher Ashley,0,3487767,92
+145,0113481,Johnny Mnemonic,Robert Longo,26000000,19077036,96
+146,0113492,Judge Dredd,Danny Cannon,90000000,113493481,96
+147,0113500,Jury Duty,John Fortenberry,0,17014653,88
+148,0113540,Kids,Larry Clark,1500000,7412216,91
+149,0113677,Living in Oblivion,Tom DiCillo,500000,1111790,90
+150,0113690,Lord of Illusions,Clive Barker,12000000,13294422,109
+151,0107447,Love and Human Remains,Denys Arcand,0,542985,100
+152,0113729,Mad Love,Antonia Bird,0,15453274,93
+153,0113749,Mallrats,Kevin Smith,8000000,2122561,94
+154,0113820,Mighty Morphin Power Rangers,Bryan Spicer,20000000,66433194,95
+155,0110604,Mute Witness,Anthony Waller,2000000,1125910,95
+156,0110620,Nadja,Michael Almereyda,1000000,443169,93
+157,0113957,The Net,Irwin Winkler,22000000,110627965,114
+158,0113986,Nine Months,Chris Columbus,0,138510230,103
+159,0114095,Party Girl,Daisy von Scherler Mayer,150000,473303,94
+160,0114194,The Prophecy,Gregory Widen,8000000,16115878,98
+161,0114241,Reckless,Norman René,0,0,91
+162,0114323,Safe,Todd Haynes,1000000,512558,119
+163,0114345,The Scarlet Letter,Roland Joffé,46000000,10382407,135
+164,0114436,Showgirls,Paul Verhoeven,45000000,20371509,128
+165,0114478,Smoke,Wayne Wang,7000000,8367636,112
+166,0114496,Something to Talk About,Lasse Hallström,0,50865589,106
+167,0114508,Species,Roger Donaldson,35000000,113374103,108
+168,0114558,Strange Days,Kathryn Bigelow,42000000,7960304,145
+169,0058450,The Umbrellas of Cherbourg,Jacques Demy,0,206931,91
+170,0114663,Three Wishes,Martha Coolidge,10000000,7027517,115
+171,0114702,Total Eclipse,Agnieszka Holland,8000000,340139,111
+172,0114682,To Wong Foo, Thanks for Everything! Julie Newmar,Beeban Kidron,30000000,47774193,109
+173,0114781,Under Siege 2: Dark Territory,Geoff Murphy,60000000,104324083,100
+174,0114798,Unstrung Heroes,Diane Keaton,0,7929434,93
+175,0114805,Unzipped,Douglas Keeve,0,2875086,73
+176,0114887,A Walk in the Clouds,Alfonso Arau,20000000,50008143,102
+177,0114898,Waterworld,Kevin Reynolds,175000000,264218220,135
+178,0114928,White Man's Burden,Desmond Nakano,7000000,3734870,89
+179,0114938,Wild Bill,Walter Hill,30000000,2193982,97
+180,0109340,The Browning Version,Mike Figgis,0,487391,97
+181,0112602,Bushwhacked,Greg Beeman,0,7919823,90
+182,0111579,Burnt by the Sun,Nikita Mikhalkov,2800000,2313461,135
+183,0110882,Before the Rain,Milcho Manchevski,1900000,763847,113
+184,0112471,Before Sunrise,Richard Linklater,2500000,6572057,101
+185,0112508,Billy Madison,Tamra Davis,10000000,26488734,89
+186,0112438,The Babysitter,Guy Ferland,2000000,0,90
+187,0112571,Boys on the Side,Herbert Ross,21000000,23440188,115
+188,0112757,The Cure,Peter Horton,0,2568425,97
+189,0112643,Castle Freak,Stuart Gordon,0,0,90
+190,0112679,Circle of Friends,Pat O'Connor,0,23389975,103
+191,0109445,Clerks,Kevin Smith,27000,3152360,92
+192,0112883,Don Juan DeMarco,Jeremy Leven,25000000,68792531,97
+193,0109635,Disclosure,Barry Levinson,55000000,214015089,128
+194,0109676,Drop Zone,John Badham,45000000,28735315,101
+195,0112854,Destiny Turns on the Radio,Jack Baran,0,1176982,102
+196,0109579,Death and the Maiden,Roman Polanski,12000000,3103716,103
+197,0109642,Dolores Claiborne,Taylor Hackford,0,24361867,132
+198,0109686,Dumb and Dumber,Peter Farrelly,17000000,247290327,107
+199,0111797,Eat Drink Man Woman,Ang Lee,0,7294403,124
+200,0109759,Exotica,Atom Egoyan,2000000,4221036,103
+201,0109758,Exit to Eden,Garry Marshall,25000000,6841570,113
+202,0109707,Ed Wood,Tim Burton,18000000,5888242,127
+203,0113117,French Kiss,Lawrence Kasdan,40000000,101982854,111
+204,0113097,Forget Paris,Billy Crystal,0,33177694,101
+205,0113028,Far from Home: The Adventures of Yellow Dog,Phillip Borsos,0,11642946,81
+206,0113198,A Goofy Movie,Kevin Lima,18000000,35353530,78
+207,0113303,Hideaway,Brett Leonard,15000000,12201255,106
+208,0113089,Fluke,Carlo Carlei,15000000,3987768,96
+209,0109771,Farinelli,Gérard Corbiau,0,1600226,111
+210,0113199,Gordy,Mark Lewis,0,3941146,90
+211,0110057,Hoop Dreams,Steve James,700000,11830611,170
+212,0110005,Heavenly Creatures,Peter Jackson,5000000,3049950,99
+213,0110066,Houseguest,Randall Miller,10500000,26325256,113
+214,0110116,Immortal Beloved,Bernard Rose,0,9914409,121
+215,0110006,Heavyweights,Steven Brill,0,17689177,97
+216,0113360,The Hunted,J.F. Lawton,20000000,6609661,110
+217,0110099,I.Q.,Fred Schepisi,25000000,26381221,100
+218,0110148,Interview with the Vampire,Neil Jordan,60000000,223664608,123
+219,0113463,Jefferson in Paris,James Ivory,14000000,2473668,139
+220,0110189,The Jerky Boys,James Melkonian,7000000,7557877,82
+221,0110216,Junior,Ivan Reitman,60000000,108431355,109
+222,0113501,Just Cause,Arne Glimcher,0,36853222,102
+223,0113538,A Kid in King Arthur's Court,Michael Gottlieb,15000000,13406717,89
+224,0113552,Kiss of Death,Barbet Schroeder,40000000,14942422,101
+225,0076759,Star Wars: Episode IV - A New Hope,George Lucas,11000000,775398507,121
+226,0110367,Little Women,Gillian Armstrong,18000000,50085123,115
+227,0113670,A Little Princess,Alfonso Cuarón,17000000,10015449,97
+228,0110296,Ladybird Ladybird,Ken Loach,38976598,152457,101
+229,0103994,Like Water for Chocolate,Alfonso Arau,2000000,21744201,105
+230,0110322,Legends of the Fall,Edward Zwick,30000000,160638883,133
+231,0110443,Major Payne,Nick Castle,0,30112050,95
+232,0107566,My Crazy Life,Allison Anders,0,3267313,92
+233,0110391,Love Affair,Glenn Gordon Caron,60000000,18272894,108
+234,0113691,Losing Isaiah,Stephen Gyllenhaal,17000000,7603766,111
+235,0110428,The Madness of King George,Nicholas Hytner,65897768,15238689,110
+236,0109836,Frankenstein,Kenneth Branagh,45000000,112006296,123
+237,0113755,Man of the House,James Orr,0,40070995,96
+238,0110538,Mixed Nuts,Nora Ephron,15000000,6821850,97
+239,0110516,Milk Money,Richard Benjamin,0,18137661,110
+240,0110527,Miracle on 34th Street,Les Mayfield,0,46264384,114
+241,0113808,Miami Rhapsody,David Frankel,0,5221281,95
+242,0113896,My Family,Gregory Nava,5500000,11079373,128
+243,0113870,Murder in the First,Marc Rocco,0,17381942,122
+244,0110684,Nobody's Fool,Robert Benton,20000000,39491975,110
+245,0110638,Nell,Michael Apted,24500000,106683817,112
+246,0113967,New Jersey Drive,Nick Gomez,5000000,3565508,98
+247,0117169,New York Cop,Tôru Murakawa,0,0,93
+248,0106402,Beyond Bedlam,Vadim Jean,3000000,0,89
+249,0110671,Nina Takes a Lover,Alan Jacobs,0,0,98
+250,0110632,Natural Born Killers,Oliver Stone,34000000,50287182,119
+251,0110737,Only You,Norman Jewison,0,20059210,109
+252,0110729,Once Were Warriors,Lee Tamahori,0,1608610,102
+253,0114151,Poison Ivy II,Anne Goursaud,0,0,106
+254,0114069,Outbreak,Wolfgang Petersen,50000000,189859560,127
+255,0110413,Léon: The Professional,Luc Besson,16000000,20330788,110
+256,0114113,The Perez Family,Mira Nair,11000000,2832826,113
+257,0114210,A Pyromaniac's Love Story,Joshua Brand,0,345972,94
+258,0110912,Pulp Fiction,Quentin Tarantino,8000000,213928762,154
+259,0105652,Pushing Hands,Ang Lee,400000,152322,105
+260,0110889,Priest,Antonia Bird,0,4165845,98
+261,0110932,Quiz Show,Robert Redford,31000000,24822619,133
+262,0114129,Picture Bride,Kayo Hatta,0,1238905,94
+263,0110963,Queen Margot,Patrice Chéreau,42000000,1318578,161
+264,0114214,The Quick and the Dead,Sam Raimi,32000000,18636537,108
+265,0114296,Roommates,Peter Yates,22000000,12096881,108
+266,0110907,Ready to Wear,Robert Altman,18000000,11300653,133
+267,0111495,Three Colors: Red,Krzysztof Kieslowski,0,3641980,99
+268,0108394,Three Colors: Blue,Krzysztof Kieslowski,0,1552993,98
+269,0111507,Three Colors: White,Krzysztof Kieslowski,0,1289366,92
+270,0114268,Rent-a-Kid,Fred Gerber,0,0,85
+271,0110965,Relative Fear,George Mihalka,2500000,0,94
+272,0114571,Stuart Saves His Family,Harold Ramis,0,912082,95
+273,0111333,The Swan Princess,Richard Rich,45000000,9771658,90
+274,0111112,The Secret of Roan Inish,John Sayles,3000000,6159269,103
+275,0111255,The Specialist,Luis Llosa,45000000,170362582,110
+276,0111282,Stargate,Roland Emmerich,55000000,196567262,116
+277,0111070,The Santa Clause,John Pasquin,22000000,190539357,97
+278,0111161,The Shawshank Redemption,Frank Darabont,25000000,29333735,142
+279,0111149,Shallow Grave,Danny Boyle,2500000,8418797,89
+280,0108260,Suture,Scott McGehee,0,102780,96
+281,0106966,Strawberry & Chocolate,Tomás Gutiérrez Alea,0,2087569,108
+282,0114594,Swimming with Sharks,George Huang,700000,382928,93
+283,0111309,The Sum of Us,Geoff Burton,3465000,766464,100
+284,0113936,National Lampoon's Senior Trip,Kelly Makin,0,4686937,91
+285,0110081,To Live,Yimou Zhang,0,2332728,133
+286,0114614,Tank Girl,Rachel Talalay,25000000,4064495,104
+287,0114608,Tales from the Crypt: Demon Knight,Ernest R. Dickerson,13000000,21089146,92
+288,0111280,Star Trek: Generations,David Carson,35000000,118071125,118
+289,0114609,Tales from the Hood,Rusty Cundieff,6000000,11837928,98
+290,0111454,Tom & Viv,Brian Gilbert,0,538534,115
+291,0114852,Village of the Damned,John Carpenter,22000000,9418365,98
+292,0114694,Tommy Boy,Peter Segal,20000000,32679899,97
+293,0111590,Vanya on 42nd Street,Louis Malle,0,1746050,119
+294,0114788,The Underneath,Steven Soderbergh,6500000,536023,99
+295,0114888,The Walking Dead,Preston A. Whitmore II,15000000,6014341,88
+296,0108550,What's Eating Gilbert Grape,Lasse Hallström,11000000,10032765,118
+297,0114857,Virtuosity,Brett Leonard,30000000,24047675,106
+298,0114924,While You Were Sleeping,Jon Turteltaub,17000000,182057016,103
+299,0111667,The War,Jon Avnet,0,16928556,126
+300,0109655,Double Happiness,Mina Shum,0,759393,87
+301,0110598,Muriel's Wedding,P.J. Hogan,9000000,15510889,106
+302,0112435,The Baby-Sitters Club,Melanie Mayron,6500000,9685976,94
+303,0109040,Ace Ventura: Pet Detective,Tom Shadyac,15000000,107217396,86
+304,0109045,The Adventures of Priscilla, Queen of the Desert,Stephan Elliott,0,11302168,104
+305,0106339,Backbeat,Iain Softley,0,4708451,100
+306,0104779,Bitter Moon,Roman Polanski,5000000,1862805,139
+307,0109348,Bullets Over Broadway,Woody Allen,20000000,13383747,98
+308,0109444,Clear and Present Danger,Phillip Noyce,62000000,215887717,141
+309,0109446,The Client,Joel Schumacher,45000000,117615211,119
+310,0109484,Corrina, Corrina,Jessie Nelson,15000000,20164171,115
+311,0109504,Crooklyn,Spike Lee,14000000,13642925,115
+312,0109506,The Crow,Alex Proyas,23000000,50844565,102
+313,0109450,Cobb,Ron Shelton,0,1007583,128
+314,0109813,The Flintstones,Brian Levant,46000000,341631208,91
+315,0109830,Forrest Gump,Robert Zemeckis,55000000,678226465,142
+316,0109831,Four Weddings and a Funeral,Mike Newell,4400000,245700832,117
+317,0113305,Higher Learning,John Singleton,0,38290723,128
+318,0110091,I Like It Like That,Darnell Martin,0,1760527,104
+319,0110093,I Love Trouble,Charles Shyer,45000000,30806194,123
+320,0110167,It Could Happen to You,Andrew Bergman,20000000,37939757,101
+321,0110213,The Jungle Book,Stephen Sommers,27000000,52389402,111
+322,0107472,The Wonderful, Horrible Life of Leni Riefenstahl,Director,0,449707,183
+323,0110357,The Lion King,Roger Allers,45000000,979161373,88
+324,0107426,Little Buddha,Bernardo Bertolucci,35000000,4885392,123
+325,0111686,New Nightmare,Wes Craven,8000000,19721741,112
+326,0110475,The Mask,Chuck Russell,23000000,351583407,101
+327,0110478,Maverick,Richard Donner,75000000,183031272,127
+328,0110588,Mrs. Parker and the Vicious Circle,Alan Rudolph,7000000,2144667,125
+329,0110622,Naked Gun 33 1/3: The Final Insult,Peter Segal,30000000,51132598,83
+330,0110771,The Paper,Ron Howard,6000000,48424341,112
+331,0110950,Reality Bites,Ben Stiller,11500000,33351557,99
+332,0105226,Red Rock West,John Dahl,8000000,2502551,98
+333,0110989,Richie Rich,Donald Petrie,40000000,38087756,95
+334,0110997,The River Wild,Curtis Hanson,45000000,94216343,111
+335,0111257,Speed,Jan de Bont,30000000,350448145,116
+336,0111256,Speechless,Ron Underwood,38000000,20667959,99
+337,0111438,Timecop,Peter Hyams,27000000,101646581,99
+338,0111503,True Lies,James Cameron,115000000,378882411,141
+339,0111693,When a Man Loves a Woman,Luis Mandoki,0,50021959,126
+340,0111742,Wolf,Mike Nichols,70000000,131002597,125
+341,0111756,Wyatt Earp,Lawrence Kasdan,63000000,25052000,191
+342,0112443,Bad Company,Damian Harris,15000000,3674841,108
+343,0110455,A Man of No Importance,Suri Krishnamma,0,920916,99
+344,0111048,S.F.W.,Jefery Levy,0,63513,96
+345,0110399,A Low Down Dirty Shame,Keenen Ivory Wayans,10000000,29392418,100
+346,0112570,Boys Life: Three Stories of Love, Lust, and Liberation,Robert Lee King,0,0,91
+347,0109454,Colonel Chabert,Yves Angelo,0,464284,110
+348,0059170,Faster, Pussycat! Kill! Kill!,Russ Meyer,45000,0,83
+349,0110186,Jason's Lyric,Doug McHenry,7000000,20851521,119
+350,0111301,Street Fighter,Steven E. de Souza,35000000,99433436,102
+351,0110027,Highlander: The Final Dimension,Andrew Morahan,26000000,12303080,99
+352,0109785,Federal Hill,Michael Corrente,80000,514775,97
+353,0113409,In the Mouth of Madness,John Carpenter,8000000,8926413,95
+354,0109021,8 Seconds,John G. Avildsen,7000000,19623396,105
+355,0109035,Above the Rim,Jeff Pollack,3500000,16192320,96
+356,0106220,Addams Family Values,Barry Sonnenfeld,47000000,48919043,94
+357,0106226,The Age of Innocence,Martin Scorsese,34000000,32255953,139
+358,0109068,Airheads,Michael Lehmann,0,5751882,92
+359,0109067,The Air Up There,Paul Michael Glaser,17080000,21011318,107
+360,0106292,Another Stakeout,John Badham,0,20208496,108
+361,0109198,Bad Girls,Jonathan Kaplan,25000000,15240435,99
+362,0109219,Barcelona,Whit Stillman,3200000,7266973,101
+363,0106379,Being Human,Bill Forsyth,40000000,1519366,122
+364,0106400,The Beverly Hillbillies,Penelope Spheeris,25000000,57405220,92
+365,0109254,Beverly Hills Cop III,John Landis,50000000,119208989,104
+366,0109279,Black Beauty,Caroline Thompson,0,4630377,88
+367,0109297,Blink,Michael Apted,11000000,16696219,106
+368,0109303,Blown Away,Stephen Hopkins,28000000,30156002,121
+369,0109305,Blue Chips,William Friedkin,0,23070663,108
+370,0109306,Blue Sky,Tony Richardson,16000000,3359465,101
+371,0106452,Body Snatchers,Abel Ferrara,13000000,428868,87
+372,0106471,Boxing Helena,Jennifer Lynch,0,1796389,107
+373,0106489,A Bronx Tale,Robert De Niro,22000000,17287898,121
+374,0109361,Cabin Boy,Adam Resnick,9000000,3662459,80
+375,0106505,Calendar Girl,John Whitesell,13000000,2570550,90
+376,0106519,Carlito's Way,Brian De Palma,30000000,63848322,144
+377,0109439,City Slickers II: The Legend of Curly's Gold,Paul Weiland,40000000,43622150,116
+378,0109443,Clean Slate,Mick Jackson,18000000,7355425,107
+379,0106582,Cliffhanger,Renny Harlin,70000000,255000211,113
+380,0106598,Coneheads,Steve Barron,30000000,21274717,88
+381,0109456,Color of Night,Richard Rush,40000000,19726050,121
+382,0109480,Cops and Robbersons,Michael Ritchie,0,11391093,93
+383,0109493,The Cowboy Way,Gregg Champion,35000000,20280016,102
+384,0106673,Dave,Ivan Reitman,28000000,63270710,110
+385,0106677,Dazed and Confused,Richard Linklater,6900000,8260382,103
+386,0106697,Demolition Man,Marco Brambilla,57000000,58056466,115
+387,0106834,Even Cowgirls Get the Blues,Gus Van Sant,8000000,1708873,106
+388,0106873,Fatal Instinct,Carl Reiner,0,7839327,91
+389,0106332,Farewell My Concubine,Kaige Chen,4000000,7437725,171
+390,0106881,Fearless,Peter Weir,0,6995302,122
+391,0106880,Fear of a Black Hat,Rusty Cundieff,999999,233824,88
+392,0111732,With Honors,Alek Keshishian,0,20016254,101
+393,0106926,Flesh and Bone,Steve Kloves,0,9709451,126
+394,0111712,Widows' Peak,John Irvin,0,6243722,101
+395,0106941,For Love or Money,Barry Sonnenfeld,30000000,11146270,96
+396,0106918,The Firm,Sydney Pollack,42000000,270248367,154
+397,0106965,Free Willy,Simon Wincer,20000000,153709806,112
+398,0109842,Fresh,Boaz Yakin,3500000,8094616,114
+399,0106977,The Fugitive,Andrew Davis,44000000,368875760,130
+400,0107004,Geronimo: An American Legend,Walter Hill,35000000,18635620,115
+401,0109890,The Getaway,Roger Donaldson,0,30057974,115
+402,0109891,Getting Even with Dad,Howard Deutch,30000000,18869594,109
+403,0109913,Go Fish,Rose Troche,15000,2405285,83
+404,0107076,Hard Target,John Woo,18000000,74189677,97
+405,0107144,Hot Shots! Part Deux,Jim Abrahams,25000000,133752825,86
+406,0113674,Live Nude Girls,Julianna Lavin,0,23808,95
+407,0112966,The Englishman Who Went Up a Hill But Came Down a Mountain,Christopher Monger,40997769,10904930,99
+408,0107151,The House of the Spirits,Bille August,40000000,6265311,145
+409,0110064,House Party 3,Eric Meza,0,19281235,100
+410,0110074,The Hudsucker Proxy,Joel Coen,40000000,2816518,111
+411,0110097,I'll Do Anything,James L. Brooks,40000000,10424645,115
+412,0110123,In the Army Now,Daniel Petrie Jr.,0,28881266,91
+413,0107206,In the Line of Fire,Wolfgang Petersen,40000000,176997168,128
+414,0107207,In the Name of the Father,Jim Sheridan,13000000,65796862,133
+415,0110137,The Inkwell,Matty Rich,8000000,8880705,110
+416,0108551,What's Love Got to Do with It,Brian Gibson,15000000,39100956,118
+417,0110197,Jimmy Hollywood,Barry Levinson,30000000,3783003,112
+418,0107286,Judgment Night,Stephen Hopkins,21000000,12526677,110
+419,0107290,Jurassic Park,Steven Spielberg,63000000,1104379926,127
+420,0107302,Kalifornia,Dominic Sena,9000000,2395231,117
+421,0110265,Killing Zoe,Roger Avary,1500000,418961,96
+422,0110305,Lassie,Daniel Petrie,0,9994609,94
+423,0107362,Last Action Hero,John McTiernan,85000000,137298489,130
+424,0107413,Life with Mikey,James Lapine,0,12440858,91
+425,0110353,Lightning Jack,Simon Wincer,36000000,16821273,98
+426,0107468,M. Butterfly,David Cronenberg,17000000,1498795,101
+427,0107478,Made in America,Richard Benjamin,22000000,104942695,111
+428,0107497,Malice,Harold Becker,20000000,46405336,107
+429,0107501,The Man Without a Face,Mel Gibson,20000000,24760338,115
+430,0107507,Manhattan Murder Mystery,Woody Allen,13500000,11330911,104
+431,0107554,Menace II Society,Albert Hughes,3500000,27912072,97
+432,0116253,Executive Decision,Stuart Baird,55000000,121969216,133
+433,0074102,In the Realm of the Senses,Nagisa Ôshima,0,569,109
+434,0111689,What Happened Was...,Tom Noonan,120000,141,91
+435,0107616,Much Ado About Nothing,Kenneth Branagh,11000000,22549338,111
+436,0107613,Mr. Wonderful,Anthony Minghella,13000000,3125424,98
+437,0107614,Mrs. Doubtfire,Chris Columbus,25000000,441286195,125
+438,0107653,Naked,Mike Leigh,0,1797195,131
+439,0110657,The Next Karate Kid,Christopher Cain,12000000,15876353,107
+440,0110678,No Escape,Martin Campbell,20000000,15339030,118
+441,0110687,North,Rob Reiner,40000000,7182747,87
+442,0107756,Orlando,Sally Potter,4000000,5410588,94
+443,0107808,A Perfect World,Clint Eastwood,30000000,135130999,138
+444,0107818,Philadelphia,Jonathan Demme,26000000,206678440,125
+445,0107822,The Piano,Jane Campion,7000000,40185766,121
+446,0107840,Poetic Justice,John Singleton,14000000,27515786,109
+447,0107889,The Program,David S. Ward,15000000,23032565,112
+448,0111003,The Puppet Masters,Stuart Orme,0,8647042,109
+449,0110939,Radioland Murders,Mel Smith,15000000,1316865,108
+450,0110955,The Ref,Ted Demme,11000000,11439193,97
+451,0107943,The Remains of the Day,James Ivory,15000000,23240144,134
+452,0110971,Renaissance Man,Penny Marshall,40000000,24332324,128
+453,0107969,Rising Sun,Philip Kaufman,35000000,107198790,129
+454,0111001,The Road to Wellville,Alan Parker,25000000,6562513,118
+455,0107978,RoboCop 3,Fred Dekker,22000000,10696210,104
+456,0107977,Robin Hood: Men in Tights,Mel Brooks,20000000,35739755,104
+457,0107983,Romeo Is Bleeding,Peter Medak,11500000,3275585,110
+458,0105275,Romper Stomper,Geoffrey Wright,0,175732,94
+459,0108000,Ruby in Paradise,Victor Nunez,800000,1001437,114
+460,0108002,Rudy,David Anspaugh,0,22881563,114
+461,0105032,Savage Nights,Cyril Collard,0,662341,126
+462,0108052,Schindler's List,Steven Spielberg,22000000,322161245,195
+463,0111094,The Scout,Michael Ritchie,0,2694234,101
+464,0108065,Searching for Bobby Fischer,Steven Zaillian,12000000,7266383,109
+465,0108071,The Secret Garden,Agnieszka Holland,18000000,31181347,101
+466,0111127,Serial Mom,John Waters,13000000,7823437,95
+467,0111143,The Shadow,Russell Mulcahy,25000000,48063435,108
+468,0108101,Shadowlands,Richard Attenborough,22000000,25842377,131
+469,0108122,Short Cuts,Robert Altman,12000000,6110979,188
+470,0111194,A Simple Twist of Fate,Gillies MacKinnon,0,3430583,106
+471,0111201,Sirens,John Duigan,0,7770731,98
+472,0108149,Six Degrees of Separation,Fred Schepisi,12000000,6405918,112
+473,0108160,Sleepless in Seattle,Nora Ephron,21000000,227927165,105
+474,0108162,Sliver,Phillip Noyce,40000000,116300000,107
+475,0083658,Blade Runner,Ridley Scott,28000000,41767218,117
+476,0108186,Son in Law,Steve Rash,8000000,36448400,95
+477,0108174,So I Married an Axe Murderer,Thomas Schlamme,20000000,11585483,93
+478,0108238,Striking Distance,Rowdy Herrington,30000000,24107867,102
+479,0108255,Super Mario Bros.,Annabel Jankel,48000000,20928292,104
+480,0111323,Surviving the Game,Ernest R. Dickerson,7400000,7727256,96
+481,0111400,Terminal Velocity,Deran Sarafian,50000000,16487349,102
+482,0108328,Thirty Two Short Films About Glenn Gould,François Girard,0,1319521,98
+483,0111418,Threesome,Andrew Fleming,0,14815317,93
+484,0107688,The Nightmare Before Christmas,Henry Selick,18000000,107800040,76
+485,0108333,The Three Musketeers,Stephen Herek,30000000,53898845,105
+486,0108358,Tombstone,George P. Cosmatos,25000000,56505065,130
+487,0108399,True Romance,Tony Scott,13000000,13094586,119
+488,0108515,The War Room,Chris Hegedus,0,901668,96
+489,0110763,The Pagemaster,Pixote Hunt,27000000,13670688,80
+490,0114906,Welcome to the Dollhouse,Todd Solondz,800000,4569882,88
+491,0107002,Germinal,Claude Berri,164000000,0,160
+492,0109403,Chasers,Dennis Hopper,0,1596687,102
+493,0107315,Kika,Pedro Almodóvar,0,2020357,114
+494,0106408,Bhaji on the Beach,Gurinder Chadha,0,740827,101
+495,0110363,Little Big League,Andrew Scheinman,0,12267790,119
+496,0107225,Ciao, Professore!,Lina Wertmüller,0,1113435,100
+497,0111252,Spanking the Monkey,David O. Russell,200000,1359736,100
+498,0110366,The Little Rascals,Penelope Spheeris,23000000,67308282,82
+499,0109120,Andre,George Miller,0,16820893,94
+500,0108059,La scorta,Ricky Tognazzi,0,147107,96
+501,0110892,Princess Caraboo,Michael Austin,0,3062530,97
+502,0112651,The Celluloid Closet,Rob Epstein,0,1400591,102
+503,0109382,Dear Diary,Nanni Moretti,0,173696,100
+504,0112572,The Brady Bunch Movie,Betty Thomas,12000000,46576136,90
+505,0099785,Home Alone,Chris Columbus,18000000,476684675,103
+506,0099653,Ghost,Jerry Zucker,22000000,505703557,126
+507,0103639,Aladdin,Ron Clements,28000000,504050219,90
+508,0103064,Terminator 2: Judgment Day,James Cameron,102000000,517778573,137
+509,0099348,Dances with Wolves,Kevin Costner,22000000,424208848,181
+510,0096895,Batman,Tim Burton,35000000,411569241,126
+511,0102926,The Silence of the Lambs,Jonathan Demme,19000000,272742922,118
+512,0029583,Snow White and the Seven Dwarfs,Directors,1499000,185098309,83
+513,0101414,Beauty and the Beast,Gary Trousdale,25000000,451291298,84
+514,0032910,Pinocchio,Directors,2600000,121892045,88
+515,0100405,Pretty Woman,Garry Marshall,14000000,463406268,119
+516,0065214,The Wild Bunch,Sam Peckinpah,6244087,640561,135
+517,0110395,Love and a .45,C.M. Talkington,0,35200,101
+518,0109934,A Great Day in Harlem,Jean Bach,0,527034,0
+519,0117247,One Fine Day,Michael Hoffman,0,97529550,108
+520,0112625,Candyman: Farewell to the Flesh,Bill Condon,6000000,13941216,95
+521,0116282,Fargo,Joel Coen,7000000,60611975,98
+522,0116552,Homeward Bound II: Lost in San Francisco,David R. Ellis,0,32772492,88
+523,0082509,Heavy Metal,Directors,9300000,547563,86
+524,0116514,Hellraiser: Bloodline,Kevin Yagher,4000000,9336886,85
+525,0117283,The Pallbearer,Matt Reeves,8000000,5656388,98
+526,0116684,Jane Eyre,Franco Zeffirelli,0,5200601,112
+527,0070506,Bread and Chocolate,Franco Brusati,0,0,100
+528,0065421,The Aristocats,Wolfgang Reitherman,4000000,191000000,78
+529,0113083,The Flower of My Secret,Pedro Almodóvar,0,1105265,103
+530,0118001,Two Much,Fernando Trueba,24000000,1141556,118
+531,0116165,Ed,Bill Couturié,24000000,4422380,94
+532,0117891,A Thin Line Between Love and Hate,Martin Lawrence,8000000,35599803,108
+533,0113613,The Last Supper,Stacy Title,0,459749,92
+534,0117381,Primal Fear,Gregory Hoblit,30000000,102616183,129
+535,0115509,All Dogs Go to Heaven 2,Larry Leker,0,8620678,82
+536,0114671,Land and Freedom,Ken Loach,2500000,228800,109
+537,0112844,Denise Calls Up,Hal Salwen,0,148121,80
+538,0114658,Theodore Rex,Jonathan R. Betuel,33500000,0,92
+539,0116275,A Family Thing,Richard Pearce,0,10125417,109
+540,0113122,Frisk,Todd Verow,0,87433,88
+541,0117608,Sgt. Bilko,Jonathan Lynn,39000000,37956793,94
+542,0113448,Jack & Sarah,Tim Sullivan,0,218626,110
+543,0116414,Girl 6,Spike Lee,12000000,4939939,108
+544,0116095,Diabolique,Jeremiah S. Chechik,0,17100266,107
+545,0113947,Nelly & Monsieur Arnaud,Claude Sautet,0,955708,106
+546,0115956,Courage Under Fire,Edward Zwick,46000000,100860818,116
+547,0117060,Mission: Impossible,Brian De Palma,80000000,457696391,110
+548,0109028,Cold Fever,Friðrik Þór Friðriksson,130000000,0,83
+549,0117071,Moll Flanders,Pen Densham,0,3486957,123
+550,0116136,DragonHeart,Rob Cohen,57000000,115267375,103
+551,0116168,Eddie,Steve Rash,30000000,31387164,100
+552,0116683,James and the Giant Peach,Henry Selick,38000000,28946127,79
+553,0116287,Fear,James Foley,0,20831000,97
+554,0116768,Kids in the Hall: Brain Candy,Kelly Makin,0,2654308,89
+555,0114787,Underground,Emir Kusturica,14000000,182134,167
+556,0112536,Bloodsport 2,Alan Mehrez,0,684351,90
+557,0048473,Pather Panchali,Satyajit Ray,0,135342,125
+558,0052572,The World of Apu,Satyajit Ray,0,134241,105
+559,0117128,Mystery Science Theater 3000: The Movie,Jim Mallon,0,1007306,73
+560,0117705,Space Jam,Joe Pytka,80000000,230594962,88
+561,0062711,Barbarella,Roger Vadim,9000000,1622,98
+562,0108181,Some Folks Call It a Sling Blade,George Hickenlooper,0,0,0
+563,0114307,The Run of the Country,Peter Yates,0,0,109
+564,0058898,Alphaville,Jean-Luc Godard,220000,66651,99
+565,0113443,It's My Party,Randal Kleiser,0,622503,110
+566,0114048,Operation Dumbo Drop,Simon Wincer,0,24670346,107
+567,0117104,Mrs. Winterbourne,Richard Benjamin,25000000,10082005,105
+568,0117688,Solo,Norberto Barba,19000000,5107669,94
+569,0117774,The Substitute,Robert Mandel,0,14818176,114
+570,0114736,True Crime,Pat Verducci,0,0,94
+571,0116289,Feeling Minnesota,Steven Baigelman,0,3124440,99
+572,0109593,Delta of Venus,Zalman King,0,63174,102
+573,0112368,Angus,Patrick Read Johnson,0,4821759,90
+574,0115742,Boys,Stacy Cochran,0,516349,86
+575,0117420,The Quest,Jean-Claude Van Damme,30000000,57400547,95
+576,0117784,Sunset Park,Steve Gomer,0,10163782,99
+577,0117107,Mulholland Falls,Lee Tamahori,29000000,11526099,107
+578,0117979,The Truth About Cats & Dogs,Michael Lehmann,0,34861807,97
+579,0095776,Oliver & Company,George Scribner,31000000,74151346,74
+580,0115851,Celtic Pride,Tom DeCerchio,0,9255027,91
+581,0116322,Flipper,Alan Shapiro,25530000,20080020,95
+582,0112817,Dead Man,Jim Jarmusch,9000000,1085079,121
+583,0113362,The Horseman on the Roof,Jean-Paul Rappeneau,0,1320043,118
+584,0108500,The Visitors,Jean-Marie Poiré,50000000,659810,107
+585,0117108,Multiplicity,Harold Ramis,45000000,21075014,117
+586,0113270,The Haunted World of Edward D. Wood Jr.,Brett Thompson,0,0,89
+587,0115963,The Craft,Andrew Fleming,15000000,24825844,101
+588,0116448,The Great White Hype,Reginald Hudlin,0,8008255,91
+589,0116827,Last Dance,Bruce Beresford,0,5939449,103
+590,0112701,Cold Comfort Farm,John Schlesinger,0,5682429,105
+591,0116508,Heaven's Prisoners,Phil Joanou,25000000,5009305,132
+592,0117500,The Rock,Michael Bay,75000000,335062621,136
+593,0109592,Cemetery Man,Michele Soavi,4000000,253986,103
+594,0117998,Twister,Jan de Bont,92000000,494580615,113
+595,0115624,Barb Wire,David Hogan,9000000,3793614,98
+596,0113568,Ghost in the Shell,Mamoru Oshii,330000000,968116,83
+597,0117894,Thinner,Tom Holland,8000000,15315484,93
+598,0117723,Spy Hard,Rick Friedberg,18000000,26960191,81
+599,0112691,Wallace & Gromit: A Close Shave,Nick Park,0,20909,0
+600,0117768,The Stupids,John Landis,25000000,2491989,94
+601,0115571,The Arrival,David Twohy,25000000,14063331,115
+602,0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1800000,9631984,95
+603,0109688,Ashes of Time,Director,40000000,2009694,93
+604,0110480,Maya Lin: A Strong Clear Vision,Freida Lee Mock,0,62186,105
+605,0108211,Stalingrad,Joseph Vilsmaier,20000000,152972,134
+606,0117331,The Phantom,Simon Wincer,45000000,17330678,100
+607,0117765,Striptease,Andrew Bergman,40000000,113309743,115
+608,0113280,Heavy,James Mangold,0,941414,105
+609,0116669,Jack,Francis Ford Coppola,45000000,58620973,113
+610,0116594,I Shot Andy Warhol,Mary Harron,0,1875527,103
+611,0070820,Touki Bouki,Djibril Diop Mambéty,0,180,85
+612,0063715,Spirits of the Dead,Federico Fellini,0,0,121
+613,0117951,Trainspotting,Danny Boyle,1500000,16992984,93
+614,0118523,'Til There Was You,Scott Winant,23000000,3525125,113
+615,0116629,Independence Day,Roland Emmerich,75000000,817400891,145
+616,0117737,Stealing Beauty,Bernardo Bertolucci,10000000,4900436,118
+617,0116277,The Fan,Tony Scott,55000000,18626419,116
+618,0116583,The Hunchback of Notre Dame,Gary Trousdale,100000000,325338851,91
+619,0115798,The Cable Guy,Ben Stiller,47000000,102825796,96
+620,0116778,Kingpin,Bobby Farrelly,27000000,25023434,114
+621,0116213,Eraser,Chuck Russell,100000000,242295562,115
+622,0117218,The Nutty Professor,Tom Shadyac,54000000,273961019,95
+623,0111546,Un été inoubliable,Lucian Pintilie,0,0,82
+624,0113610,The Last Klezmer: Leopold Kozlowski, His Life and Music,Yale Strom,0,0,85
+625,0111237,Somebody to Love,Alexandre Rockwell,0,18112,102
+626,0116040,Daylight,Rob Cohen,80000000,159212469,114
+627,0116365,The Frighteners,Peter Jackson,30000000,29359216,110
+628,0116905,Lone Star,John Sayles,5000000,12421583,135
+629,0116493,Harriet the Spy,Bronwen Hughes,12000000,26570048,100
+630,0117333,Phenomenon,Jon Turteltaub,32000000,152036382,123
+631,0118113,Walking and Talking,Nicole Holofcener,1000000,1287480,86
+632,0117628,She's the One,Edward Burns,3500000,9538948,96
+633,0117913,A Time to Kill,Joel Schumacher,40000000,152266007,149
+634,0115530,American Buffalo,Michael Corrente,0,665450,88
+635,0115493,Alaska,Fraser C. Heston,23000000,11829959,109
+636,0116320,Fled,Kevin Hooks,25000000,17193231,98
+637,0116756,Kazaam,Paul Michael Glaser,20000000,18937262,93
+638,0116823,Larger Than Life,Howard Franklin,30000000,8315693,93
+639,0118073,A Very Brady Sequel,Arlene Sanford,12000000,21440752,90
+640,0061495,The Collector,Éric Rohmer,0,7077,86
+641,0110246,Kaspar Hauser,Peter Sehr,0,0,139
+642,0115472,The Adventures of Pinocchio,Steve Barron,25000000,15094530,96
+643,0116707,Joe's Apartment,John Payson,13000000,4619014,80
+644,0116313,The First Wives Club,Hugh Wilson,26000000,181489203,103
+645,0117438,Ransom,Ron Howard,80000000,309492681,121
+646,0116531,High School High,Hart Bochner,0,21302121,86
+647,0116353,Foxfire,Annette Haywood-Carter,0,269300,102
+648,0115857,Chain Reaction,Andrew Davis,50000000,60209334,107
+649,0117008,Matilda,Danny DeVito,36000000,33462584,98
+650,0116191,Emma,Douglas McGrath,6000000,22231658,0
+651,0115986,The Crow: City of Angels,Tim Pope,13000000,17917287,84
+652,0116571,House Arrest,Harry Winer,0,7032782,108
+653,0053459,Eyes Without a Face,Georges Franju,0,62793,90
+654,0117826,Bordello of Blood,Gilbert Adler,13000000,5781045,87
+655,0117718,The Spitfire Grill,Lee David Zlotoff,6000000,12658486,117
+656,0116225,Escape from L.A.,John Carpenter,50000000,25477365,101
+657,0115632,Basquiat,Julian Schnabel,3300000,3046785,107
+658,0117918,Tin Cup,Ron Shelton,45000000,53854588,135
+659,0068646,The Godfather,Francis Ford Coppola,6000000,250342198,175
+660,0104558,Supercop,Stanley Tong,900000,16270600,91
+661,0115736,Bound,Lana Wachowski,4500000,3803441,109
+662,0115836,Carpool,Arthur Hiller,17000000,3325651,89
+663,0116745,Kansas City,Robert Altman,19000000,1356828,116
+664,0119214,Gone Fishin',Christopher Cain,53000000,19745922,94
+665,0110693,Nothing to Lose,Izidore K. Musallam,0,0,83
+666,0106544,Supercop 2,Stanley Tong,0,0,104
+667,0120004,The Relic,Peter Hyams,40000000,33956608,110
+668,0116654,The Island of Dr. Moreau,John Frankenheimer,40000000,49627779,96
+669,0116311,First Kid,David Mickey Evans,0,26491793,101
+670,0117965,The Trigger Effect,David Koepp,8000000,3622979,94
+671,0115725,Bogus,Norman Jewison,30000000,4357406,110
+672,0115783,Bulletproof,Ernest R. Dickerson,25000000,22611954,84
+673,0113596,The Land Before Time III: The Time of the Great Giving,Roy Allen Smith,0,0,71
+674,0109001,1-900,Theo van Gogh,0,0,87
+675,0113253,Halloween: The Curse of Michael Myers,Joe Chappelle,5000000,15116634,87
+676,0117991,Twelfth Night,Trevor Nunn,5000000,588621,134
+677,0117093,Mother Night,Keith Gordon,6000000,403701,114
+678,0111019,Wild Reeds,André Téchiné,0,807775,110
+679,0035896,For Whom the Bell Tolls,Sam Wood,3000000,0,170
+680,0032904,The Philadelphia Story,George Cukor,944000,414976,112
+681,0045152,Singin' in the Rain,Stanley Donen,2540800,2096442,103
+682,0043278,An American in Paris,Vincente Minnelli,2723903,275077,114
+683,0050419,Funny Face,Stanley Donen,3000000,1669,103
+684,0054698,Breakfast at Tiffany's,Blake Edwards,2500000,600922,115
+685,0052357,Vertigo,Alfred Hitchcock,2479000,7971440,128
+686,0047396,Rear Window,Alfred Hitchcock,1000000,37905475,112
+687,0025316,It Happened One Night,Frank Capra,325000,16993,105
+688,0036855,Gaslight,George Cukor,0,2391,114
+689,0025164,The Gay Divorcee,Mark Sandrich,520000,6879,107
+690,0053125,North by Northwest,Alfred Hitchcock,3101000,197920,136
+691,0053604,The Apartment,Billy Wilder,3000000,18783770,125
+692,0053291,Some Like It Hot,Billy Wilder,2883848,208786,121
+693,0056923,Charade,Stanley Donen,3000000,175119,113
+694,0034583,Casablanca,Michael Curtiz,950000,4731471,102
+695,0033870,The Maltese Falcon,John Huston,375000,41740,100
+696,0058385,My Fair Lady,George Cukor,17000000,72685970,170
+697,0047437,Sabrina,Billy Wilder,2238813,3985,113
+698,0046250,Roman Holiday,William Wyler,1500000,103197,118
+699,0031580,The Little Princess,Walter Lang,1000000,0,93
+700,0037059,Meet Me in St. Louis,Vincente Minnelli,1700000,502844,113
+701,0032138,The Wizard of Oz,Victor Fleming,2777000,25637669,102
+702,0031381,Gone with the Wind,Victor Fleming,3977000,402382193,238
+703,0084370,My Favorite Year,Richard Benjamin,7900000,20123620,92
+704,0043014,Sunset Boulevard,Billy Wilder,1752000,310954,110
+705,0033467,Citizen Kane,Orson Welles,839727,1711106,119
+706,0062622,2001: A Space Odyssey,Stanley Kubrick,12000000,66890296,149
+707,0042192,All About Eve,Joseph L. Mankiewicz,1400000,154974,138
+708,0032143,The Women,George Cukor,1688000,16161,133
+709,0032976,Rebecca,Alfred Hitchcock,1288000,113328,130
+710,0032484,Foreign Correspondent,Alfred Hitchcock,1500000,782,0
+711,0038787,Notorious,Alfred Hitchcock,2000000,117330,102
+712,0038109,Spellbound,Alfred Hitchcock,1696377,19288,111
+713,0050105,An Affair to Remember,Leo McCarey,0,3873965,115
+714,0048728,To Catch a Thief,Alfred Hitchcock,2500000,7117,106
+715,0042451,Father of the Bride,Vincente Minnelli,0,89,92
+716,0045537,The Band Wagon,Vincente Minnelli,2169120,15009,112
+717,0031725,Ninotchka,Ernst Lubitsch,1365000,2477,110
+718,0050658,Love in the Afternoon,Billy Wilder,2100000,718,130
+719,0051658,Gigi,Vincente Minnelli,3319355,0,115
+720,0029843,The Adventures of Robin Hood,Michael Curtiz,1900000,5742,102
+721,0032762,The Mark of Zorro,Rouben Mamoulian,1000000,10248,94
+722,0037008,Laura,Otto Preminger,1020000,151,88
+723,0039420,The Ghost and Mrs. Muir,Joseph L. Mankiewicz,0,29545,104
+724,0029162,Lost Horizon,Frank Capra,4000000,0,132
+725,0027125,Top Hat,Mark Sandrich,609000,13592,101
+726,0035446,To Be or Not to Be,Ernst Lubitsch,0,4578000,99
+727,0028010,My Man Godfrey,Gregory La Cava,656000,0,94
+728,0049261,Giant,George Stevens,5400000,32857066,201
+729,0048028,East of Eden,Elia Kazan,0,29934,118
+730,0025878,The Thin Man,W.S. Van Dyke,226408,0,91
+731,0032599,His Girl Friday,Howard Hawks,0,330,92
+732,0048960,Around the World in 80 Days,Michael Anderson,6000000,42009549,175
+733,0038650,It's a Wonderful Life,Frank Capra,3180000,10635461,130
+734,0031679,Mr. Smith Goes to Washington,Frank Capra,1900000,146123,129
+735,0029947,Bringing Up Baby,Howard Hawks,1073000,13054,102
+736,0034012,Penny Serenade,George Stevens,0,0,119
+737,0025586,Of Human Bondage,John Cromwell,403000,0,83
+738,0027893,Little Lord Fauntleroy,John Cromwell,0,0,102
+739,0041509,The Inspector General,Henry Koster,2873000,0,102
+740,0026029,The 39 Steps,Alfred Hitchcock,50000,54096,86
+741,0063350,Night of the Living Dead,George A. Romero,114000,238101,96
+742,0043265,The African Queen,John Huston,1000000,46305,105
+743,0046414,Beat the Devil,John Huston,1000000,0,89
+744,0051459,Cat on a Hot Tin Roof,Richard Brooks,3000000,1872,108
+745,0033891,Meet John Doe,Frank Capra,0,0,122
+746,0022879,A Farewell to Arms,Frank Borzage,799520,0,80
+747,0114007,Nothing Personal,Thaddeus O'Sullivan,0,40374,86
+748,0118927,Dangerous Ground,Darrell Roodt,0,5406742,95
+749,0048491,Picnic,Joshua Logan,0,0,115
+750,0117357,The Pompatus of Love,Richard Schenkman,0,0,99
+751,0116329,Fly Away Home,Carroll Ballard,22000000,25143818,107
+752,0118742,Bliss,Lance Young,0,294064,103
+753,0116442,Grace of My Heart,Allison Anders,5000000,660313,116
+754,0117011,Maximum Risk,Ringo Lam,25000000,14502483,101
+755,0117039,Michael Collins,Neil Jordan,25000000,11136590,133
+756,0116635,Infinity,Matthew Broderick,0,195170,119
+757,0115678,Big Night,Campbell Scott,4100000,12009094,109
+758,0116830,Last Man Standing,Walter Hill,67000000,47267001,101
+759,0117603,Set It Off,F. Gary Gray,9000000,41590886,123
+760,0115438,2 Days in the Valley,John Herzfeld,0,11132210,104
+761,0116259,Extreme Measures,Michael Apted,38000000,17380126,118
+762,0116421,The Glimmer Man,John Gray,45000000,20351264,91
+763,0116000,D3: The Mighty Ducks,Robert Lieberman,0,22955097,104
+764,0115862,The Chamber,James Foley,50000000,22540359,113
+765,0072653,The Apple Dumpling Gang,Norman Tokar,0,36853000,100
+766,0047977,Davy Crockett: King of the Wild Frontier,Norman Foster,0,0,93
+767,0072951,Escape to Witch Mountain,John Hough,0,20000000,97
+768,0064603,The Love Bug,Robert Stevenson,0,51264022,108
+769,0071607,Herbie Rides Again,Robert Stevenson,0,38229000,88
+770,0050798,Old Yeller,Robert Stevenson,0,91,83
+771,0055277,The Parent Trap,David Swift,0,29650385,129
+772,0054195,Pollyanna,David Swift,0,0,134
+773,0107131,Homeward Bound: The Incredible Journey,Duwayne Dunham,0,41833324,84
+774,0053271,The Shaggy Dog,Charles Barton,0,0,104
+775,0054357,Swiss Family Robinson,Ken Annakin,5000000,40359745,126
+776,0059793,That Darn Cat!,Robert Stevenson,0,0,116
+777,0046672,20,000 Leagues Under the Sea,Richard Fleischer,9000000,746,127
+778,0106611,Cool Runnings,Jon Turteltaub,14000000,154856263,98
+779,0109127,Angels in the Outfield,William Dear,24000000,50236831,102
+780,0042332,Cinderella,Clyde Geronimi,2900000,96383387,74
+781,0063819,Winnie the Pooh and the Blustery Day,Wolfgang Reitherman,0,0,0
+782,0038166,The Three Caballeros,Directors,0,0,71
+783,0057546,The Sword in the Stone,Wolfgang Reitherman,3000000,12000000,79
+784,0102798,Robin Hood: Prince of Thieves,Kevin Reynolds,48000000,390493908,143
+785,0058331,Mary Poppins,Robert Stevenson,6000000,103126221,139
+786,0033563,Dumbo,Directors,950000,112581,64
+787,0076538,Pete's Dragon,Don Chaffey,10000000,39588000,128
+788,0066817,Bedknobs and Broomsticks,Robert Stevenson,20000000,844,117
+789,0043274,Alice in Wonderland,Directors,3000000,1246,75
+790,0082406,The Fox and the Hound,Directors,12000000,63456988,83
+791,0116361,Freeway,Matthew Bright,3000000,295493,104
+792,0059742,The Sound of Music,Robert Wise,8200000,159500547,172
+793,0095016,Die Hard,John McTiernan,28000000,143651650,132
+794,0104692,The Lawnmower Man,Brett Leonard,10000000,32100816,108
+795,0117582,The Secret Agent,Christopher Hampton,7000000,106606,95
+796,0117589,Secrets & Lies,Mike Leigh,4500000,13417292,136
+797,0117887,That Thing You Do!,Tom Hanks,26000000,34585416,108
+798,0117924,To Gillian on Her 37th Birthday,Michael Pressman,0,4189233,93
+799,0115640,Beautiful Thing,Hettie Macdonald,0,2176488,90
+800,0116908,The Long Kiss Goodnight,Renny Harlin,65000000,89456761,121
+801,0116409,The Ghost and the Darkness,Stephen Hopkins,55000000,38619959,110
+802,0116913,Looking for Richard,Al Pacino,0,1408575,111
+803,0117958,Trees Lounge,Steve Buscemi,1300000,749741,95
+804,0117202,Normal Life,John McNaughton,0,22891,101
+805,0116404,Get on the Bus,Spike Lee,2400000,5754249,0
+806,0120107,Shadow Conspiracy,George P. Cosmatos,45000000,2312463,103
+807,0116722,Jude,Michael Winterbottom,7000000,409144,123
+808,0116242,Everyone Says I Love You,Woody Allen,20000000,9759200,101
+809,0117509,Romeo + Juliet,Baz Luhrmann,14500000,147554998,0
+810,0117802,Swingers,Doug Liman,200000,4555020,96
+811,0117665,Sleepers,Barry Levinson,44000000,165615285,147
+812,0115491,Aladdin and the King of Thieves,Tad Stones,0,0,81
+813,0029546,Shall We Dance,Mark Sandrich,991000,6662,109
+814,0039286,Crossfire,Edward Dmytryk,250000,0,86
+815,0067992,Willy Wonka & the Chocolate Factory,Mel Stuart,3000000,687741,100
+816,0055018,The Innocents,Jack Clayton,430000,30221,100
+817,0070707,Sleeper,Woody Allen,2000000,18344868,89
+818,0066808,Bananas,Woody Allen,2000000,136200,82
+819,0095159,A Fish Called Wanda,Charles Crichton,7500000,62493712,108
+820,0079470,Monty Python's Life of Brian,Terry Jones,4000000,20833252,94
+821,0084865,Victor/Victoria,Blake Edwards,0,28229440,134
+822,0068334,The Candidate,Michael Ritchie,1500000,0,110
+823,0059243,The Great Race,Blake Edwards,12000000,0,160
+824,0061418,Bonnie and Clyde,Arthur Penn,2500000,2560,111
+825,0052027,The Old Man and the Sea,John Sturges,5000000,67740,86
+826,0046912,Dial M for Murder,Alfred Hitchcock,1400000,45313,105
+827,0092890,Dirty Dancing,Emile Ardolino,6000000,214577242,100
+828,0105236,Reservoir Dogs,Quentin Tarantino,1200000,2932006,99
+829,0091763,Platoon,Oliver Stone,6000000,138546255,0
+830,0098627,Weekend at Bernie's,Ted Kotcheff,0,30218387,97
+831,0103772,Basic Instinct,Paul Verhoeven,49000000,352927224,127
+832,0101761,The Doors,Oliver Stone,38000000,34515936,140
+833,0104036,The Crying Game,Neil Jordan,2300000,62549086,112
+834,0104348,Glengarry Glen Ross,James Foley,12500000,10726612,100
+835,0084707,Sophie's Choice,Alan J. Pakula,12000000,30036166,150
+836,0083866,E.T. the Extra-Terrestrial,Steven Spielberg,10500000,797307407,115
+837,0029992,A Christmas Carol,Edwin L. Marin,0,0,69
+838,0099371,Days of Thunder,Tony Scott,60000000,157920733,107
+839,0092099,Top Gun,Tony Scott,15000000,357288178,109
+840,0048545,Rebel Without a Cause,Nicholas Ray,1500000,219735,111
+841,0044081,A Streetcar Named Desire,Elia Kazan,1800000,54695,122
+842,0115885,Children of the Corn: The Gathering,Greg Spence,0,0,85
+843,0102336,Loser,Erik Burke,0,0,84
+844,0117040,Microcosmos,Claude Nuridsany,5000000,1433210,80
+845,0117284,Palookaville,Alan Taylor,0,365284,92
+846,0116378,The Funeral,Abel Ferrara,12500000,1227553,99
+847,0113057,A Single Girl,Benoît Jacquot,0,230049,90
+848,0116581,The Eighth Day,Jaco Van Dormael,25000000,33031984,118
+849,0112907,Drunks,Peter Cohn,0,38268,90
+850,0117318,The People vs. Larry Flynt,Milos Forman,36000000,20300385,130
+851,0116422,Glory Daze,Rich Wilkes,0,15134,100
+852,0117320,A Perfect Candidate,R.J. Cutler,0,134485,105
+853,0082846,On Golden Pond,Mark Rydell,7500000,119285810,109
+854,0072081,The Return of the Pink Panther,Blake Edwards,5000000,41833423,113
+855,0101775,Drop Dead Fred,Ate de Jong,6788000,13884358,103
+856,0096754,The Abyss,James Cameron,70000000,90520202,140
+857,0080749,The Fog,John Carpenter,1100000,21448830,89
+858,0082340,Escape from New York,John Carpenter,6000000,25276664,99
+859,0082533,The Howling,Joe Dante,1000000,17985893,91
+860,0091288,Jean de Florette,Claude Berri,0,4940939,0
+861,0091480,Manon of the Spring,Claude Berri,0,3940542,113
+862,0081375,Private Benjamin,Howard Zieff,9500000,69847348,109
+863,0071853,Monty Python and the Holy Grail,Terry Gilliam,229575,2931902,91
+864,0116587,Hustler White,Rick Castro,0,0,79
+865,0116212,Entertaining Angels: The Dorothy Day Story,Michael Ray Rhodes,0,0,110
+866,0116886,The Line King: The Al Hirschfeld Story,Susan Warms Dryfoos,0,50605,86
+867,0118147,When We Were Kings,Leon Gast,0,2789985,88
+868,0108598,Wallace & Gromit: The Wrong Trousers,Nick Park,0,0,0
+869,0084589,The Return of Martin Guerre,Daniel Vigne,0,3723036,112
+870,0109781,Faust,Jan Svankmajer,0,2117923,97
+871,0034493,The Children Are Watching Us,Vittorio De Sica,0,0,84
+872,0078875,The Tin Drum,Volker Schlöndorff,0,7469,142
+873,0069198,The Ruling Class,Peter Medak,0,0,154
+874,0110521,Mina Tannenbaum,Martine Dugowson,0,0,128
+875,0116059,Dear God,Garry Marshall,22000000,7138523,112
+876,0112483,Best of the Best 3: No Turning Back,Phillip Rhee,0,0,90
+877,0103850,Bob Roberts,Tim Robbins,3900000,4479470,102
+878,0095765,Cinema Paradiso,Giuseppe Tornatore,5000000,13030027,174
+879,0097108,The Cook, the Thief, His Wife & Her Lover,Peter Greenaway,0,8527316,124
+880,0101700,Delicatessen,Marc Caro,24000000,1804142,99
+881,0101765,The Double Life of Véronique,Krzysztof Kieslowski,0,2175939,98
+882,0101811,Enchanted April,Mike Newell,0,13200170,95
+883,0050825,Paths of Glory,Stanley Kubrick,935000,8290,88
+884,0099703,The Grifters,Stephen Frears,0,13446769,110
+885,0102014,Hear My Song,Peter Chelsom,0,4313473,104
+886,0116209,The English Patient,Anthony Minghella,27000000,231976425,162
+887,0102426,Mediterraneo,Gabriele Salvatores,0,4532791,96
+888,0097937,My Left Foot,Jim Sheridan,600000,14743391,103
+889,0098724,Sex, Lies, and Videotape,Steven Soderbergh,1200000,24742453,100
+890,0105107,Passion Fish,John Sayles,3330000,4814619,135
+891,0105488,Strictly Ballroom,Baz Luhrmann,3000000,11761116,94
+892,0096257,The Thin Blue Line,Errol Morris,0,1209846,101
+893,0101026,Tie Me Up! Tie Me Down!,Pedro Almodóvar,0,4089145,101
+894,0102370,Madonna: Truth or Dare,Alek Keshishian,4500000,29012935,0
+895,0100332,Paris Is Burning,Jennie Livingston,500000,3906006,78
+896,0073486,One Flew Over the Cuckoo's Nest,Milos Forman,3000000,109115366,133
+897,0078446,Up in Smoke,Lou Adler,2000000,44364244,86
+898,0080684,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,18000000,550016086,124
+899,0093779,The Princess Bride,Rob Reiner,16000000,30983422,98
+900,0082971,Raiders of the Lost Ark,Steven Spielberg,18000000,389925971,115
+901,0088846,Brazil,Terry Gilliam,15000000,9952602,132
+902,0090605,Aliens,James Cameron,18500000,131060248,137
+903,0060196,The Good, the Bad and the Ugly,Sergio Leone,1200000,25266106,178
+904,0094336,Withnail and I,Bruce Robinson,1100000,1970880,107
+905,0050083,12 Angry Men,Sidney Lumet,350000,2945,96
+906,0056172,Lawrence of Arabia,David Lean,15000000,45870825,227
+907,0066921,A Clockwork Orange,Stanley Kubrick,2200000,27034174,136
+908,0056592,To Kill a Mockingbird,Robert Mulligan,2000000,602810,129
+909,0078788,Apocalypse Now,Francis Ford Coppola,31500000,105150841,147
+910,0064116,Once Upon a Time in the West,Sergio Leone,5000000,5435312,166
+911,0086190,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,32500000,482466382,131
+912,0093191,Wings of Desire,Wim Wenders,0,3518525,128
+913,0041959,The Third Man,Carol Reed,0,1421864,104
+914,0099685,Goodfellas,Martin Scorsese,25000000,47068004,145
+915,0078748,Alien,Ridley Scott,11000000,109102567,117
+916,0106308,Army of Darkness,Sam Raimi,11000000,11520654,81
+917,0095250,The Big Blue,Luc Besson,80000000,3992246,168
+918,0089881,Ran,Akira Kurosawa,11500000,4384009,160
+919,0097202,The Killer,John Woo,0,2340425,111
+920,0054215,Psycho,Alfred Hitchcock,806947,32253563,109
+921,0080455,The Blues Brothers,John Landis,27500000,115229890,133
+922,0071562,The Godfather Part II,Francis Ford Coppola,13000000,47983687,202
+923,0093058,Full Metal Jacket,Stanley Kubrick,30000000,50193748,116
+924,0104361,Wallace & Gromit: A Grand Day Out,Nick Park,0,80758,0
+925,0097499,Henry V,Kenneth Branagh,9000000,10161211,137
+926,0086879,Amadeus,Milos Forman,18000000,52205710,160
+927,0045061,The Quiet Man,John Ford,1750000,0,129
+928,0087843,Once Upon a Time in America,Sergio Leone,30000000,5476126,229
+929,0081398,Raging Bull,Martin Scorsese,18000000,23406017,129
+930,0075686,Annie Hall,Woody Allen,4000000,38289445,93
+931,0086197,The Right Stuff,Philip Kaufman,27000000,21192315,193
+932,0079944,Stalker,Andrei Tarkovsky,1000000,454258,162
+933,0082096,Das Boot,Wolfgang Petersen,32000000,11489051,149
+934,0070735,The Sting,George Roy Hill,5500000,156000000,129
+935,0067185,Harold and Maude,Hal Ashby,1200000,4535,91
+936,0103130,Trust,Hal Hartley,700000,357400,107
+937,0050976,The Seventh Seal,Ingmar Bergman,150000,312104,96
+938,0085859,Local Hero,Bill Forsyth,3000000,5998640,111
+939,0088247,The Terminator,James Cameron,6400000,78371200,107
+940,0103873,Dead Alive,Peter Jackson,3000000,242623,104
+941,0097441,Glory,Edward Zwick,18000000,26979166,122
+942,0100519,Rosencrantz & Guildenstern Are Dead,Tom Stoppard,0,739104,117
+943,0079522,Manhattan,Woody Allen,9000000,40194067,96
+944,0100150,Miller's Crossing,Joel Coen,14000000,5080409,115
+945,0097165,Dead Poets Society,Peter Weir,16400000,235860116,128
+946,0061722,The Graduate,Mike Nichols,3000000,105018402,106
+947,0052311,Touch of Evil,Orson Welles,829000,2285063,95
+948,0100263,La Femme Nikita,Luc Besson,50000000,5018604,117
+949,0050212,The Bridge on the River Kwai,David Lean,3000000,27201366,161
+950,0056801,8½,Federico Fellini,0,313034,138
+951,0071315,Chinatown,Roman Polanski,6000000,29232347,130
+952,0043456,The Day the Earth Stood Still,Robert Wise,1200000,651,92
+953,0040897,The Treasure of the Sierra Madre,John Huston,3000000,5014000,126
+954,0092610,Bad Taste,Peter Jackson,200000,0,91
+955,0023969,Duck Soup,Leo McCarey,0,106318,69
+956,0088794,Better Off Dead,Savage Steve Holland,0,10297601,97
+957,0081505,The Shining,Stanley Kubrick,19000000,47969816,146
+958,0092005,Stand by Me,Rob Reiner,8000000,53525035,89
+959,0022100,M,Fritz Lang,0,35566,99
+960,0092991,Evil Dead II,Sam Raimi,3600000,5932279,84
+961,0057115,The Great Escape,John Sturges,4000000,230637,172
+962,0077416,The Deer Hunter,Michael Cimino,15000000,49080312,183
+963,0082269,Diva,Jean-Jacques Beineix,0,183425,117
+964,0107048,Groundhog Day,Harold Ramis,14600000,71108778,101
+965,0105695,Unforgiven,Clint Eastwood,14400000,159167799,130
+966,0056218,The Manchurian Candidate,John Frankenheimer,2200000,2757256,126
+967,0100436,Pump Up the Volume,Allan Moyle,0,11541758,102
+968,0036613,Arsenic and Old Lace,Frank Capra,1164000,0,118
+969,0088763,Back to the Future,Robert Zemeckis,19000000,385053307,116
+970,0101921,Fried Green Tomatoes,Jon Avnet,11000000,119418501,130
+971,0066206,Patton,Franklin J. Schaffner,12000000,61749765,172
+972,0090967,Down by Law,Jim Jarmusch,1100000,1529199,107
+973,0094625,Akira,Katsuhiro Ôtomo,1100000000,3082999,124
+974,0091203,Highlander,Russell Mulcahy,16000000,5902508,116
+975,0061512,Cool Hand Luke,Stuart Rosenberg,3200000,1887,127
+976,0099334,Cyrano de Bergerac,Jean-Paul Rappeneau,100000000,5822041,137
+977,0072431,Young Frankenstein,Mel Brooks,2800000,86278631,106
+978,0102536,Night on Earth,Jim Jarmusch,3500000,2113387,129
+979,0101640,Raise the Red Lantern,Yimou Zhang,0,2603061,125
+980,0032553,The Great Dictator,Charles Chaplin,2000000,972212,125
+981,0032455,Fantasia,Directors,2280000,76414517,124
+982,0044706,High Noon,Fred Zinnemann,730000,217,85
+983,0038355,The Big Sleep,Howard Hawks,250000,51050,114
+984,0097493,Heathers,Michael Lehmann,3000000,1168250,103
+985,0081534,Somewhere in Time,Jeannot Szwarc,5100000,9709597,103
+986,0052618,Ben-Hur,William Wyler,15000000,74439376,212
+987,0088258,This Is Spinal Tap,Rob Reiner,2500000,4739391,82
+988,0085809,Koyaanisqatsi,Godfrey Reggio,0,1728699,86
+989,0094006,Some Kind of Wonderful,Howard Deutch,0,18553948,95
+990,0097576,Indiana Jones and the Last Crusade,Steven Spielberg,48000000,474171806,127
+991,0078841,Being There,Hal Ashby,0,30179435,130
+992,0083987,Gandhi,Richard Attenborough,22000000,52768419,191
+993,0096332,The Unbearable Lightness of Being,Philip Kaufman,17000000,10006806,171
+994,0091867,A Room with a View,James Ivory,3000000,21063579,117
+995,0089886,Real Genius,Martha Coolidge,8000000,12952019,108
+996,0084503,Pink Floyd: The Wall,Alan Parker,12000000,22274148,95
+997,0087553,The Killing Fields,Roland Joffé,14400000,34700291,141
+998,0089606,My Life as a Dog,Lasse Hallström,0,8349284,101
+999,0049223,Forbidden Planet,Fred M. Wilcox,1900000,900,98
