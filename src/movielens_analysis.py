@@ -437,6 +437,16 @@ class TestMethods:
         result = self.links.get_imdb(list_of_movies=self.list_of_movies, list_of_fields=self.list_of_fields)
         assert isinstance(result, list)
 
+    def test_links_get_imdb_list(self):
+        result = self.links.get_imdb(list_of_movies=self.list_of_movies, list_of_fields=self.list_of_fields)
+        for res in result:
+            assert isinstance(res[0], str)
+            assert isinstance(res[1], str)
+            assert isinstance(res[2], str)
+            assert isinstance(res[3], int)
+            assert isinstance(res[4], int)
+            assert isinstance(res[5], int)
+
     def test_links_top_directors(self):
         result = self.links.top_directors(self.n)
         assert isinstance(result, dict)
@@ -483,7 +493,12 @@ class TestMethods:
     def test_tags_most_words_and_longest(self):
         result = self.tags.most_words_and_longest(self.n)
         assert isinstance(result, list)
-    
+
+    def test_tags_most_words_and_longest_list(self):
+        result = self.tags.most_words_and_longest(self.n)
+        for res in result:
+            assert isinstance(res, str)
+
     def test_tags_most_popular(self):
         result = self.tags.most_popular(self.n)
         assert isinstance(result, dict)
@@ -492,12 +507,16 @@ class TestMethods:
         result = self.tags.tags_with(self.word)
         assert isinstance(result, list)
     
+    def test_tags_tags_with_list(self):
+        result = self.tags.tags_with(self.word)
+        for res in result:
+            assert isinstance(res, str)
 
 if __name__ == "__main__":
     links = Links("../data/links.csv")
 
-    # list_of_movies = ["0317198", "0308644", "0368891"]
-    # list_of_fields = ['Title', 'Director', 'Budget', 'Cumulative Worldwide Gross', 'Runtime']
+    list_of_movies = ["0317198", "0308644", "0368891"]
+    list_of_fields = ['Title', 'Director', 'Budget', 'Cumulative Worldwide Gross', 'Runtime']
 
     # get_imdb = links.get_imdb(list_of_movies=list_of_movies, list_of_fields=list_of_fields)
     # top_directors = links.top_directors(10)
@@ -505,6 +524,9 @@ if __name__ == "__main__":
     # most_profitable = links.most_profitable(10)
     # longest = links.longest(10)
     # top_cost_per_minute = links.top_cost_per_minute(10)
+
+    # print(get_imdb)
+
 
     # for result in [get_imdb, top_directors, most_expensive, most_profitable, longest, top_cost_per_minute]:
     #     print(result, "\n")
@@ -519,10 +541,12 @@ if __name__ == "__main__":
 
     tags = Tags("../data/tags.csv")
     # most_words = tags.most_words(3)
-    # longest = tags.longest(10)
-    # most_words_and_longest = tags.most_words_and_longest(10)
+    # longest = tags.longest(3)
+    # most_words_and_longest = tags.most_words_and_longest(3)
     # most_popular = tags.most_popular(10)
-    # tags_with = tags.tags_with("great")
+    tags_with = tags.tags_with("great")
+
+    print(tags_with)
 
     # for result in [most_words, longest, most_words_and_longest, most_popular, tags_with]:
     #     print(result, "\n")
